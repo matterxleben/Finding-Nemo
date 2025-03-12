@@ -60,7 +60,7 @@ class MultiLabelImageDataset(Dataset):
         return image, label
 
 
-''' Only Need to do below to generate a new dataset
+# Only Need to do below to generate a new dataset
 
 # Running Data Pipeline:
 
@@ -77,6 +77,4 @@ dataset = MultiLabelImageDataset(csv_file=csv_file_path,
                                  transform=transform)
 
 torch.save(dataset, 'dataset.pt')
-
-'''
 
