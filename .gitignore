@@ -1,5 +1,9 @@
 fathomnet-out-of-sample-detection
 fathomnet-venv
+kaggle_files/images/
+kaggle_files/images_eval/
+myenv/
+*.csv
 *.env
 *.csv
 myenv
@@ -12,6 +16,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.png
 .venv/
 env/
 venv/
