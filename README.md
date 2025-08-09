@@ -1,5 +1,5 @@
-## Finding Nemo - MSE 546: Advanced Machine Learning, Term Project
-Identifying and discovering new animals in ocean imagery data, utilizing machine learning and deep learning. Based on the Kaggle competition: https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection
+## Finding Nemo - Multi-Label Deep Sea Image Classification
+In this project, we tested various machine learning and deep learning algorithms to classify marine animal species in deep-sea images, requiring fine-tuning CNNs such as ResNet, DenseNet, EfficientNet, etc. This program was created for the course "MSE 546: Advanced Machine Learning" term-long project. Based on the Kaggle competition: https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection
 
 ### The full report and results of this project can be seen at: 
 https://docs.google.com/presentation/d/1VZVHRA__KtrJDhEmUTf-QkEKO1lc2-MAntAnwPunsb8/edit?usp=sharing
@@ -7,8 +7,14 @@ https://docs.google.com/presentation/d/1VZVHRA__KtrJDhEmUTf-QkEKO1lc2-MAntAnwPun
 ### Group: 
 Elize Kooji, Mateo Alvarez, Ria Narang, Thomas Kleinknect, Matthew Erxleben
 
+### Technologies:
+- Python
+- PyTorch
+- NumPy
+- Jupyter
+
 ### Objective: 
-Multi-label classification, identify multiple marine organisms in an image
+Multi-label classification identifying multiple marine organisms in an image
 
 ### Input Data: 
 Raw image data (5950 images), annotations for 290 fine-grained categories, mapping of fine grained categories to one of 20 super-categories, and species metadata
