@@ -10,9 +10,6 @@ https://docs.google.com/presentation/d/1VZVHRA__KtrJDhEmUTf-QkEKO1lc2-MAntAnwPun
 - NumPy
 - Jupyter
 
-### Objective: 
-Multi-label classification identifying multiple marine organisms in an image
-
 ### Input Data: 
 Raw image data (5950 images), annotations for 290 fine-grained categories, mapping of fine grained categories to one of 20 super-categories, and species metadata
 
