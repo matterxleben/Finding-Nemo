@@ -4,9 +4,6 @@ In this project, we tested various machine learning and deep learning algorithms
 ### The full report and results of this project can be seen at: 
 https://docs.google.com/presentation/d/1VZVHRA__KtrJDhEmUTf-QkEKO1lc2-MAntAnwPunsb8/edit?usp=sharing
 
-### Group: 
-Elize Kooji, Mateo Alvarez, Ria Narang, Thomas Kleinknect, Matthew Erxleben
-
 ### Technologies:
 - Python
 - PyTorch
@@ -40,3 +37,6 @@ Class imbalances, computationally heavy, low resolution images
 
 ### Required compute: 
 Ideally GPUs, with adequate storage to support the difficulty of the task
+
+### Group: 
+Elize Kooji, Mateo Alvarez, Ria Narang, Thomas Kleinknect, Matthew Erxleben
