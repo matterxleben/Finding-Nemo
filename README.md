@@ -1,10 +1,8 @@
-# MSE_546_Project
-MSE 546: Advanced Machine Learning, Term Project
-Identifying and discovering new animals in ocean imagery data, utilizing machine learning and deep learning
-Based on the Kaggle competition: https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection
+## Finding Nemo - MSE 546: Advanced Machine Learning, Term Project
+Identifying and discovering new animals in ocean imagery data, utilizing machine learning and deep learning. Based on the Kaggle competition: https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection
 
 ### The full report and results of this project can be seen at: 
-- https://docs.google.com/presentation/d/1VZVHRA__KtrJDhEmUTf-QkEKO1lc2-MAntAnwPunsb8/edit?usp=sharing
+https://docs.google.com/presentation/d/1VZVHRA__KtrJDhEmUTf-QkEKO1lc2-MAntAnwPunsb8/edit?usp=sharing
 
 ### Group: 
 Elize Kooji, Mateo Alvarez, Ria Narang, Thomas Kleinknect, Matthew Erxleben
